@@ -83,4 +83,4 @@ Prompts the user for the service, checks if it exists on the database using **ch
 
 ## Author
 
-- [@dashuree](https://www.github.com/dashuree)
+- [@valentin-correa](https://www.github.com/valentin-correa)
